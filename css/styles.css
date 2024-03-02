@@ -72,7 +72,7 @@ button {
   padding-top: 24px;
   padding-bottom: 24px;
   display: block;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .nav-link:hover,
@@ -91,7 +91,7 @@ button {
   padding-top: 24px;
   padding-bottom: 24px;
   display: block;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .address-link:hover,
@@ -465,6 +465,7 @@ margin-bottom: 16px;
   gap: 24px;
   justify-content: center;
   align-items: center;
+  
 }
 
 .social-list-item {
@@ -474,6 +475,7 @@ margin-bottom: 16px;
   justify-content: center;
     align-items: center;
     display: flex;
+    
 }
 
 .social-list-link {
@@ -494,6 +496,7 @@ margin-bottom: 16px;
 
 .social-list-icon {
   fill: #fff;
+ 
 }
 
 .container.container-footer {
