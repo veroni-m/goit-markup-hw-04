@@ -337,8 +337,8 @@ justify-content: center;
   gap: 24px;
 }
 
-.social-list-link:hover.team,
-.social-list-link:focus.team {
+.social-list-link:hover.team-box,
+.social-list-link:focus.team-box {
   background-color: #404bbf;
 }
 
