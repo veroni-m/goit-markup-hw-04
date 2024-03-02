@@ -289,7 +289,7 @@ justify-content: center;
 }
 
 .team-item {
-  padding-bottom: 24px;
+
   background: #fff;
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
@@ -323,6 +323,7 @@ justify-content: center;
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  padding-bottom: 8px;
 }
 
 .team-list {
